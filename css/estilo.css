@@ -21,7 +21,13 @@ body{
     text-transform: uppercase;
     text-align: center;
 }
-
+.nav-link:hover{
+   color: #EE961A;
+}
+.nav-item:hover{
+background-color: #7FD0E1;
+transition: ease 0.4s;
+}
 .navbar-toggler{
     border: 1px solid #7FD0E1;
     padding: 8px 15px;
